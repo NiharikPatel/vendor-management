@@ -1,0 +1,7 @@
+venv
+
+vendor_app/migrations
+
+vendor_app/__pycache__
+
+.idea
